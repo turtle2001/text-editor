@@ -6,7 +6,7 @@ This goal of this project is to create a text editor that is a progressive web a
 
 Technologies Used
 
-[Deployed App]()
+[Deployed App](https://text-editor-00.herokuapp.com/)
 
 ## Installation
 
